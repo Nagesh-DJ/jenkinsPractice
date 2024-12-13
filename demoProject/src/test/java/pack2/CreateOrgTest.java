@@ -15,8 +15,5 @@ public void modifyOrgTest()
 	System.out.println("execute modifyOrgTest");
 	}
 
-@Test
-public void orgWithNameTest() {
-	System.out.println("execute");
-}
+
 }
